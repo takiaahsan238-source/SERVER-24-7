@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "SRX_ITACHI.aternos.me",
+    "ip": "SRX_ITACHI.aternos.me:29441",
     "port": 29441,
     "version": "",
     "try-creative": false
